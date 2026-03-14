@@ -7,12 +7,6 @@ public class Demo {
 
 	}
 
-	public void demo3() {
-
-	}
-	public void demo4() {
-
-	}
 	public void demo5() {
 
 	}

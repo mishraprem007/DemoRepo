@@ -34,7 +34,7 @@ public class BaseClass {
 	@BeforeSuite(groups = {"smoke", "regression"},alwaysRun = true)
 	public void configBS() {		
 		/*
-		 * asdjb;dsa
+		 * asdjb;dsa    
 		 */
 				
 	}

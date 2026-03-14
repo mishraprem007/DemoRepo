@@ -14,4 +14,8 @@ public class Demo {
 	public void demo5555() {
 
 	}
+	
+	public void devAdded() {
+		
+	}
 }

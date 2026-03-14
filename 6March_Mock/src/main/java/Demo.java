@@ -2,10 +2,7 @@
 public class Demo {
 
 
-
-	public void demo2() {
-
-	}
+//removed one method by master
 
 	public void demo5() {
 

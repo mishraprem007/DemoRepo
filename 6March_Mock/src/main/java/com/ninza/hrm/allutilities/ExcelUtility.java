@@ -20,7 +20,7 @@ public class ExcelUtility {
 		String data=wb.getSheet(sheetname).getRow(rowNum).getCell(colNum).getStringCellValue();
 		wb.close();
 		return data;
-		//j;k'
+		//j;k' fkdhl
 	}
 	
 	public int getintDataFromExcel(String sheetname, int rowNum, int colNum) throws EncryptedDocumentException, IOException {

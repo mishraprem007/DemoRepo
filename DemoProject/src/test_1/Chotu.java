@@ -7,5 +7,10 @@ public class Chotu {
 		System.out.println("Your are mad");
 
 	}
+	
+	public void badeMia() {
+		
+		System.out.println("420");
+	}
 
 }
